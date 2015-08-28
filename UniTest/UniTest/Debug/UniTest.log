@@ -1,0 +1,13 @@
+﻿Build started 2015-05-03 오전 3:27:45.
+     1>Project "D:\Develop\PiProject\UniTest\UniTest\UniTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Source\gtest-1.7.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Develop\PiProject\UniTest\Debug\UniTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Source\gtest-1.7.0\msvc\gtest\Debug" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Develop\PiProject\UniTest\Debug\UniTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Develop\PiProject\UniTest\Debug\UniTest.lib" /MACHINE:X86 Debug\Source.obj
+         UniTest.vcxproj -> D:\Develop\PiProject\UniTest\Debug\UniTest.exe
+     1>Done Building Project "D:\Develop\PiProject\UniTest\UniTest\UniTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
